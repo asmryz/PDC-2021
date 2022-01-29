@@ -1,5 +1,13 @@
 # Group 4 - HA Cluster (FailOver)
 
+### Group Members:
+- Muhammad Asad ur Rehman - 1812121
+- Usman Raza - 1812138
+- Hiba Zakir -1812113
+- Neha Goindani - 1812127
+
+---------------------------------------------------------
+
 - Create 2 CentOS 7 Machines on VMware
 - Setup User on Each Machines
 - Basic machine setup configuration
