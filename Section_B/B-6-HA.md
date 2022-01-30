@@ -91,8 +91,6 @@
 ## 15. Showing Status
  pcs status cluster in both nodes
 
-# Part 4:
-
 ## 1. Install squid
  dnf install squid -y
 ## 2. Backup squid file
