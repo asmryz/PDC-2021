@@ -34,7 +34,7 @@
     <br />
     <a href="https://github.com/SyedMustafaImam/HPCC-On-VMware-">Tutorial</a>
     ·
-    <a href="https://github.com/SyedMustafaImam/HPCC-On-VMware-/issues">Softwares</a>
+    <a href="https://github.com/SyedMustafaImam/HPCC-On-VMware-/tree/main/Packages_and_Softwares">Softwares</a>
     ·
     <a href="https://github.com/SyedMustafaImam/HPCC-On-VMware-/issues">Issues</a>
   </p>
